@@ -1,0 +1,44 @@
+body{
+    background-color: #66ffff;
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+}
+#modal-box{
+    border: 1px solid white;
+    border-radius: 25px;
+    width:50%;
+    height: 50%;
+    margin: auto;   
+}
+.box-content h2, .job{
+    margin-top:20px;
+    margin-left: 43%;
+}
+
+.box-content .job{
+    color: #49A6E9;
+}
+
+.box-content .content{
+    margin-left: 20px;
+    padding:0px;
+}
+img{
+    border-radius: 50%;
+    margin-top:20px;
+    margin-left:40%;
+}
+.box-button {
+    margin-left: 46%;
+}
+.button{
+    color: skyblue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 5px 10px;
+    
+}
